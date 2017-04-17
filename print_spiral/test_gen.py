@@ -30,13 +30,12 @@ def spiral(width, height):
                 return matrix # nowhere to go
 
 def print_matrix(matrix):
-    s = ""
+    l = []
     width = len(str(max(el for row in matrix for el in row if el is not None)))
     fmt = "{:%d}" % width
     for row in matrix:
-        s += (" ".join("_"*width if el is None else fmt.format(el) for el in row))
-        s += '\n'
-    return s
+        l.append(" ".join("_"*width if el is None else fmt.format(el) for el in row))
+    return '\n'.join(l)
 
 for i in xrange(num_test):
     n = i + 5
