@@ -9,8 +9,8 @@ Work on individual folders.
   - simple_regex
   - matrix_shift (test to come)
   - dot_product
-# Medium:
   - match_brackets
+# Medium:
   - find_median
   - print_spiral
   - simple_regex_1
