@@ -18,6 +18,8 @@
   eg:
     ab|c
     matches: "ab" or "ac"
+    ab|cd|ef
+    matches: "abdf", "abef", "acdf", "acef"
   2. ., any letter matches .
   eg:
     a.
