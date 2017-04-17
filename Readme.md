@@ -10,10 +10,11 @@ Work on individual folders.
   - matrix_shift (test to come)
   - dot_product
 # Medium:
-  - match_brackets (test not complete)
+  - match_brackets
   - find_median
   - print_spiral
   - simple_regex_1
+  - match_more_brackets
 # Hard:
   - simple_regex_10 (test to come)
   - simple_regex_100 (test to come)
