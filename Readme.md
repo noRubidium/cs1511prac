@@ -7,8 +7,10 @@ Work on individual folders.
 # Easy:
   - find_median_sorted
   - simple_regex (test not complete)
-  - match_brackets
+  - matrix_shift
+  - dot_product
 # Medium:
+  - match_brackets
   - find_median
   - print_spiral
   - simple_regex_1 (test to come)
