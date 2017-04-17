@@ -14,7 +14,7 @@ Work on individual folders.
   - find_median
   - print_spiral
   - simple_regex_1
-  - match_more_brackets
+  - match_more_brackets (test to come)
 # Hard:
   - simple_regex_10 (test to come)
   - simple_regex_100 (test to come)
