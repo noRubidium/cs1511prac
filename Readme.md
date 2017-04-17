@@ -8,7 +8,7 @@ Work on individual folders.
   - find_median_sorted
   - simple_regex (test not complete)
   - matrix_shift (test to come)
-  - dot_product (test to come)
+  - dot_product
 # Medium:
   - match_brackets (test not complete)
   - find_median
