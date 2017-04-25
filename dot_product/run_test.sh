@@ -4,14 +4,14 @@ if gcc -Wall -Werror -O "$program_name.c" -o "$program_name.op"; then
   do
     outputf=`echo "$f" | sed 's/in$/out/'`;
     expected_output=`cat "$outputf"`;
-    my_output=`"./$program_name.op" < $f`;
+    my_output=`"./$program_name.op" < "$f"`;
     if [[ $my_output == $expected_output ]]; then
       echo "passed test: $f";
     else
       echo "Failed test: $f";
       echo "Your output: $my_output";
       echo "Expected output: $expected_output";
-      echo "You can perform the test by running: \"./$program_name.op\" < $f";
+      echo "You can perform the test by running: \"./$program_name.op\" < \"$f\"";
       exit 1;
     fi
   done;
