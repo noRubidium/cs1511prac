@@ -15,12 +15,22 @@ Work on individual folders.
     - replace block
     - delete half of the list (every second one)
     - delete one out of order
-  - a browser history simulation
+    - find common nodes in two linked list
+    - swapping two nodes
+    - Some other questions from leetcode:
+      - https://leetcode.com/problems/add-two-numbers-ii/#/description
+      - https://leetcode.com/problems/odd-even-linked-list/#/description
+      - https://leetcode.com/problems/intersection-of-two-linked-lists/#/description
+      - https://leetcode.com/problems/reverse-linked-list-ii/#/description
+      - https://leetcode.com/problems/partition-list/#/description
+      - https://leetcode.com/problems/rotate-list/#/description
+  - a browser history simulation
   - complicated parenthesis {[()]}
 # Medium:
   - find_median
   - print_spiral
   - simple_regex_1
+  - https://leetcode.com/problems/merge-k-sorted-lists/#/description
   - match_more_brackets (test to come)
 # Hard:
   - simple_regex_10 (test to come)
