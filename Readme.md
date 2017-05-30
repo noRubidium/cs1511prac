@@ -25,7 +25,7 @@ Work on individual folders.
       - https://leetcode.com/problems/partition-list/#/description
       - https://leetcode.com/problems/rotate-list/#/description
   - simulation: 
-    -- [a browser history simulation](http://cgi.cse.unsw.edu.au/~z5041652/browser_history/browser_history.tar.gz) 
+    [a browser history simulation](http://cgi.cse.unsw.edu.au/~z5041652/browser_history/browser_history.tar.gz) 
   - complicated parenthesis {[()]}
 # Medium:
   - find_median
