@@ -10,6 +10,13 @@ Work on individual folders.
   - matrix_shift (test to come)
   - dot_product
   - match_brackets
+  - linked list
+    - replace nth
+    - replace block
+    - delete half of the list (every second one)
+    - delete one out of order
+  - a browser history simulation
+  - complicated parenthesis {[()]}
 # Medium:
   - find_median
   - print_spiral
